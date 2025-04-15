@@ -1,0 +1,22 @@
+{
+  "name": "browser-fps-game",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^7.0.1",
+    "@react-three/drei": "^9.56.7",
+    "@react-three/fiber": "^8.13.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io-client": "^4.7.2",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.5.0"
+  }
+}
